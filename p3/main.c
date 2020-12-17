@@ -15,7 +15,7 @@ int main () {
         if (lineNum % 2 == 0) {
             // buf is a string we can work with=
             if ((buf[x % 31]) == '#')
-                count++;=
+                count++;
             // update value based on slope
             x += 1;
         }
